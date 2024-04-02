@@ -14,7 +14,9 @@
         "extensions": [
           "ms-toolsai.jupyter",
           "ms-python.python",
-          "mhutchie.git-graph"
+          "mhutchie.git-graph",
+          "ms-python.autopep8",
+          "ms-python.pylint"
         ]
       }
     }
