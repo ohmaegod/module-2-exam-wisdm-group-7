@@ -9,7 +9,7 @@ The WISDM Dataset is sourced from the UCI Machine Learning Repository. For more 
 ### Instructions
 In the `src/` folder, modify the given notebook to create a working TensorFlow model. You may also include additional `.py` files in this folder for your development if necessary.
 
-Additionally modify the given `README.md` file that provides a brief overview of the architecture, a guide in reproducing the given results, and the results itself of your deep learning model. You may use the space indicated at the bottom of this markdown file.
+Additionally, provide a brief overview of the architecture, a guide in reproducing the given results, and the results itself of your deep learning model when creating your pull request. This would be available once you're drafting a pull request which gives you an area to fill out the details.
 
 ### Expected Results
 A working `tensorflow` model that classifies activity type through signals (time series).
@@ -23,7 +23,3 @@ This Module 2 Exam would be graded on the following criteria:
 - Code quality and code workspace efficiency
 - Version control mastery
 - Adaptation to revisions and changes
-
----
-
-*You may use this area to describe your model and guides for reproduction*
